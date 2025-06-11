@@ -1,0 +1,10 @@
+*.mp4
+*.jpg
+*.jpeg
+*.png
+*.pdf
+*.docx
+*.lnk
+*.m4a
+desktop.ini
+__pycache__/
